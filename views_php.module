@@ -174,8 +174,8 @@ function views_php_autoload_info() {
     'views_php_handler_sort' => 'plugins/views/views_php_handler_sort.inc',
     'views_php_plugin_access' => 'plugins/views/views_php_plugin_access.inc',
     'views_php_plugin_cache' => 'plugins/views/views_php_plugin_cache.inc',
-    'views_php_plugin_cache' => 'plugins/views/views_php_plugin_wrapper.inc',
-    'views_php_plugin_cache' => 'plugins/views/views_php_plugin_pager.inc',
+    'views_php_plugin_wrapper' => 'plugins/views/views_php_plugin_wrapper.inc',
+    'views_php_plugin_pager' => 'plugins/views/views_php_plugin_pager.inc',
   );
 
   return $autoload;
